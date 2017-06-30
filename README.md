@@ -6,3 +6,5 @@ references_not_variables - if you ever set something directly equal to something
 list_numpy_tidbits - np.where() needs np.array, not lists, to work properly. Also  lists replicate while np.arrays actually perform multiplication with multiply
 
 parentheses_ramble - parentheses do not define tuples; used to change order of operations and continue onto next line without backslashes, but may be misleading with unfinished parentheses!
+
+python_conventions - incomplete guide to pep8 conventions used for styling in Python
