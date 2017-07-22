@@ -10,3 +10,5 @@ parentheses_ramble - parentheses do not define tuples; used to change order of o
 python_conventions - incomplete guide to pep8 conventions used for styling in Python
 
 CPR(COPYPASTERUN)_BID(BREAKITDOWN)_UT(UNITTEST) - example of the process I utilize when I program to gain insight on code to apply to personal data
+
+datetime_array_methods - how to convert datetimes into strings, shift datetime arrays, and convert the arrays to specific types of time
