@@ -1,5 +1,5 @@
 # ahhsumtips
-Ahh-sum-tips (Awesome tips!)
+Ahh-sum-tips (Awesome tips!) - Press on one of the listed .ipynb files above to see elaborations of these summaries!
 
 references_not_variables - if you ever set something directly equal to something else without modifying it, the original item may change!
 
@@ -12,3 +12,5 @@ python_conventions - incomplete guide to pep8 conventions used for styling in Py
 CPR(COPYPASTERUN)_BID(BREAKITDOWN)_UT(UNITTEST) - example of the process I utilize when I program to gain insight on code to apply to personal data
 
 datetime_array_methods - how to convert datetimes into strings, shift datetime arrays, and convert the arrays to specific types of time
+
+debugging_validity - besides making scripts run successfully, data scientists should also ensure the results are valid by passing various validity tests such as the smell test!
