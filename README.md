@@ -14,3 +14,5 @@ CPR(COPYPASTERUN)_BID(BREAKITDOWN)_UT(UNITTEST) - example of the process I utili
 datetime_array_methods - how to convert datetimes into strings, shift datetime arrays, and convert the arrays to specific types of time
 
 debugging_validity - besides making scripts run successfully, data scientists should also ensure the results are valid by passing various validity tests such as the smell test!
+
+linking_conditionals - parentheses matter when linking conditionals and symbols of conjunctions aren't interchangeable in np.where()!
