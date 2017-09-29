@@ -16,3 +16,5 @@ datetime_array_methods - how to convert datetimes into strings, shift datetime a
 debugging_validity - besides making scripts run successfully, data scientists should also ensure the results are valid by passing various validity tests such as the smell test!
 
 linking_conditionals - parentheses matter when linking conditionals and symbols of conjunctions aren't interchangeable in np.where()!
+
+apply_weighted_moving_filter - apply a weighted rolling sum across a dataframe
