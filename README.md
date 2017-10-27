@@ -20,3 +20,5 @@ linking_conditionals - parentheses matter when linking conditionals and symbols 
 apply_weighted_moving_filter - apply a weighted rolling sum across a dataframe
 
 from_multi_index_df_to_pivoted - convert a multi-index dataframe to a pivoted dataframe; useful for creating heatmaps
+
+filter_df_cols_by_pattern_regex - subselect dataframe columns by pattern regex (similar column names or wildcard)
