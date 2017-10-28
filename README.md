@@ -1,6 +1,8 @@
 # ahhsumtips
 Ahh-sum-tips (Awesome tips!) - Press on one of the listed .ipynb files above to see elaborations of these summaries!
 
+linux_reference_sheet - a reference for linux commands that may be commonly used
+
 references_not_variables - if you ever set something directly equal to something else without modifying it, the original item may change!
 
 list_numpy_tidbits - np.where() needs np.array, not lists, to work properly. Also  lists replicate while np.arrays actually perform multiplication with multiply
