@@ -26,3 +26,5 @@ from_multi_index_df_to_pivoted - convert a multi-index dataframe to a pivoted da
 filter_df_cols_by_pattern_regex - subselect dataframe columns by pattern regex (similar column names or wildcard)
 
 using_pandas_datetimeindex - using pd.DatetimeIndex to quickly resample, group, or locate data
+
+pandas_converting_str_bool_cols - convert string boolean column to actual booleans in pandas
