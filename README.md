@@ -28,3 +28,5 @@ filter_df_cols_by_pattern_regex - subselect dataframe columns by pattern regex (
 using_pandas_datetimeindex - using pd.DatetimeIndex to quickly resample, group, or locate data
 
 pandas_converting_str_bool_cols - convert string boolean column to actual booleans in pandas
+
+matplotlib_to_holoviews - mirror matplotlib functionality in holoviews
