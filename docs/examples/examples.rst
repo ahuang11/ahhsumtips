@@ -5,6 +5,7 @@ ahhsumtips Examples
     :maxdepth: 3
     :glob:
 
+    *
 
 Indices and tables
 ==================
