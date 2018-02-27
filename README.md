@@ -30,3 +30,5 @@ using_pandas_datetimeindex - using pd.DatetimeIndex to quickly resample, group, 
 pandas_converting_str_bool_cols - convert string boolean column to actual booleans in pandas
 
 matplotlib_to_holoviews - mirror matplotlib functionality in holoviews
+
+pandas_review_and_practice - many pandas operations examples and practice questions
