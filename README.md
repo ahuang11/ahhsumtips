@@ -1,4 +1,4 @@
-# ahhsumtips
+# ahhsumtips - https://ahhsumtips.readthedocs.io/en/latest/
 Ahh-sum-tips (Awesome tips!) - Press on one of the listed .ipynb files above to see elaborations of these summaries!
 
 linux_reference_sheet - a reference for linux commands that may be commonly used
