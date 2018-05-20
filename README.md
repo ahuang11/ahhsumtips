@@ -32,3 +32,5 @@ pandas_converting_str_bool_cols - convert string boolean column to actual boolea
 matplotlib_to_holoviews - mirror matplotlib functionality in holoviews
 
 pandas_review_and_practice - many pandas operations examples and practice questions
+
+using_pandas_datetime - replace datetime module with pandas
